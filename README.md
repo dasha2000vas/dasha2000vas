@@ -1,7 +1,7 @@
 # Hi, I'm Daria 👋
 
 <div align="center">
-<img src="https://sun9-41.userapi.com/impg/kSupW5F0KliPHCKwO36MY4PERHHiz9YUoTmMqw/5D077G449UQ.jpg?size=1280x550&quality=95&sign=2587bd515b5777fc39c7b4d984fd6a3a&type=album"/>
+<img src="https://sun9-34.userapi.com/impg/7v3RWamUnP-yLOLIlEwmpikPJFV57e5b7e_Zvg/zv0MNSB0CnM.jpg?size=1280x550&quality=96&sign=25a72f95fe0acef72501ab1dbb9d9e1c&type=album"/>
 </div>
 
 I am a Python backend developer from Russia. I work in Python because of its relevance and its simple and understandable syntax. I like to use it to solve problems and assemble the application into a single whole.
